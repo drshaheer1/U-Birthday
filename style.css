@@ -1,0 +1,51 @@
+html{
+    background-color: palevioletred;
+    align-items: center;
+    text-align: center;
+
+
+}
+body{
+    background-image: url(image2.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+h1{
+    color:chartreuse;
+}
+
+h4{
+    color:cyan;
+}
+h5{
+    color: lightgray;
+}
+.one{
+    height: 350px;
+    border: 10px solid black;
+    float: left;
+    
+
+}
+.two{
+    height: 350px;
+
+    border:10px solid blanchedalmond;
+    float: right;
+    
+}
+h3{
+    text-align: center;
+    color:blanchedalmond;
+}
+p{
+    color: bisque;
+    font-weight: 900;
+}
+footer{
+    color: aqua;
+    text-align: right;
+}
